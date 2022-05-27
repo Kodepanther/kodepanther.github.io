@@ -2239,11 +2239,11 @@ input, select, textarea {
 					border-color: inherit;
 					font-size: 50px;
 					/*background: linear-gradient(-45deg, #f3ec78, #af4261);*/
-					background: linear-gradient(145deg, #736ced, #f433ab, #9f9fed, #adf5ff);
+					background: linear-gradient(145deg, #adf5ff, #f433ab, #9f9fed, #736ced);
 					background-size: 100%;
 					animation: animated-text 90s ease-in-out infinite;
 					-moz-animation: animated-text 90s ease-in-out infinite;
-					-webkit-animation: animated-text 90s ease-in-out infinite;
+					-webkit-: animated-text 90s ease-in-out infinite;
 					-webkit-background-clip: text;
 					-moz-background-clip: text;
 					-webkit-text-fill-color: transparent;
