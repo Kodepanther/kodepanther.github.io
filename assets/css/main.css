@@ -2243,7 +2243,7 @@ input, select, textarea {
 					background-size: 100%;
 					animation: animated-text 90s ease-in-out infinite;
 					-moz-animation: animated-text 90s ease-in-out infinite;
-					-webkit-: animated-text 90s ease-in-out infinite;
+					-webkit-animation: animated-text 90s ease-in-out infinite;
 					-webkit-background-clip: text;
 					-moz-background-clip: text;
 					-webkit-text-fill-color: transparent;
